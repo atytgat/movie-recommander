@@ -1,2 +1,3 @@
-# movies-recommander
-Using itemrank as a collaborative recommandation algorithm
+# Itemrank based collaborative movie recommander system
+
+
